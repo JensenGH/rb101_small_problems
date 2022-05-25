@@ -1,2 +1,1 @@
-# rb101_small_problems
-Launch School
+# rb101 small problems exercises
